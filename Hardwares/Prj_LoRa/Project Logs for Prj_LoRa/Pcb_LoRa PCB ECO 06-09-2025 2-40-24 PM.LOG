@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=Voltage_source Member=R14
+Removed Member From Class: ClassName=Voltage_source Member=R21
+Added Member To Class: ClassName=Voltage_source Member=Component R4 0R 1%
+Added Member To Class: ClassName=Voltage_source Member=Component R6 5.1k 1%
+Added Member To Class: ClassName=Voltage_source Member=Component R8 10k 1%
+Added Member To Class: ClassName=Voltage_source Member=Component R9 0R 1%
+Added Member To Class: ClassName=Voltage_source Member=Component R10 1.2K 1%
+Added Member To Class: ClassName=Voltage_source Member=Component R11 73.2K 1%
+Added Member To Class: ClassName=Voltage_source Member=Component R12 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R13 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R15 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R16 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R17 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R18 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R19 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R20 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R22 4.7K 1%
+Added Member To Class: ClassName=MCU Member=Component R23 4.7K 1%
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

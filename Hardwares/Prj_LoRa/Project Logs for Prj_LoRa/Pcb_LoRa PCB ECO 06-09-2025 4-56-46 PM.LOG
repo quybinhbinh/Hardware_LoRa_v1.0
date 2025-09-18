@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP6
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP7
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP8
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP9
+Added Component: Designator=JP5(JP 1x8 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3v3 Pin=JP5-1
+Added Pin To Net: NetName=GND Pin=JP5-2
+Added Pin To Net: NetName=TFT_CS Pin=JP5-3
+Added Pin To Net: NetName=RST_TFT Pin=JP5-4
+Added Pin To Net: NetName=TFT_A0 Pin=JP5-5
+Added Pin To Net: NetName=MOSI Pin=JP5-6
+Added Pin To Net: NetName=SCK Pin=JP5-7
+Added Pin To Net: NetName=3v3 Pin=JP5-8
+Added Member To Class: ClassName=MCU Member=Component JP9 JP 2x3 2.54
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

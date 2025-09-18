@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=U4 Old Footprint=TQFP-32(7x7) New Footprint=SOT23-6
+Added Component: Designator=SP1(SOLDERING PAD BIG 2)
+Added Component: Designator=SP2(SOLDERING PAD BIG 2)
+Added Pin To Net: NetName=V_bat Pin=SP1-1
+Added Pin To Net: NetName=NetC1_1 Pin=SP2-1
+Added Member To Class: ClassName=Voltage_source Member=Component SP1 SP
+Added Member To Class: ClassName=Voltage_source Member=Component SP2 SP

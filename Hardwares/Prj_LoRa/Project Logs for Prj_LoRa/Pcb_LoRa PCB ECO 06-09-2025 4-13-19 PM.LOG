@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=RX2 Pin=JP5-1
+Removed Pin From Net: NetName=TX2 Pin=JP5-2
+Removed Pin From Net: NetName=GND Pin=JP5-3
+Removed Pin From Net: NetName=3v3 Pin=JP5-4
+Removed Pin From Net: NetName=SWCLK Pin=JP5-5
+Removed Pin From Net: NetName=SWDIO Pin=JP5-6
+Change Component Footprint: Designator=JP4 Old Footprint=JP 1x4 CT New Footprint=JP 1x6 CT
+Change Component Footprint: Designator=JP5 Old Footprint=JP 2x3 DT New Footprint=JP 1x4 CT
+Change Component Comment : Designator=JP4 Old Comment=JP 1x4 2.54 New Comment=JP 1x6 2.54
+Change Component Comment : Designator=JP5 Old Comment=JP 2x3 2.54 New Comment=JP 1x4 2.54
+Change component parameters: Designator = "JP5" ("JP5"); Footprint = "JP 2x3 DT"; UniqueID = "\NQYLJMLA" ("\NQYLJMLA")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX2 Pin=JP4-5
+Added Pin To Net: NetName=TX2 Pin=JP4-6
+Added Pin To Net: NetName=3v3 Pin=JP5-1
+Added Pin To Net: NetName=SWDIO Pin=JP5-2
+Added Pin To Net: NetName=SWCLK Pin=JP5-3
+Added Pin To Net: NetName=GND Pin=JP5-4
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RX1 Pin=U10-23
+Removed Pin From Net: NetName=TX1 Pin=U10-24
+Added Pin To Net: NetName=TX1 Pin=U10-23
+Added Pin To Net: NetName=RX1 Pin=U10-24
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

@@ -1,0 +1,18 @@
+Added Component: Designator=U1(ESOP-8)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C7473158"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Battery-Management_MSKSEMI-TP4056-MS_C7473158.html?s_z=n_tp4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MSKSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "TP4056-MS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "ESOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetR8_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=Vin Pin=U1-4
+Added Pin To Net: NetName=NetC5_2 Pin=U1-5
+Added Pin To Net: NetName=NetD2_2 Pin=U1-6
+Added Pin To Net: NetName=NetD1_2 Pin=U1-7
+Added Pin To Net: NetName=Vin Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Member To Class: ClassName=Voltage_source Member=Component U1 TP4056
+Added Room: Name=Voltage_source

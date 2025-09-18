@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RST Pin=R13-2
+Removed Pin From Net: NetName=RST Pin=TFT 1-4
+Added Pin To Net: NetName=RST_TFT Pin=R13-2
+Added Pin To Net: NetName=RST_TFT Pin=TFT 1-4
+Added Net: Name=RST_TFT
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

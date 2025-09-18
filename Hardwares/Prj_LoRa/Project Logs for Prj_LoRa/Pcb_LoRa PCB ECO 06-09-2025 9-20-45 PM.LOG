@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PD3 Pin=JP7-1
+Removed Pin From Net: NetName=PD4 Pin=JP7-2
+Removed Pin From Net: NetName=PD5 Pin=JP7-3
+Removed Pin From Net: NetName=PD6 Pin=JP7-4
+Removed Pin From Net: NetName=PD7 Pin=JP7-5
+Removed Pin From Net: NetName=PB0 Pin=JP7-6
+Added Pin To Net: NetName=PD5 Pin=JP7-1
+Added Pin To Net: NetName=PD6 Pin=JP7-2
+Added Pin To Net: NetName=PD7 Pin=JP7-3
+Added Pin To Net: NetName=PB0 Pin=JP7-4
+Added Pin To Net: NetName=PD4 Pin=JP7-5
+Added Pin To Net: NetName=PD3 Pin=JP7-6
+Added Member To Class: ClassName=MCU Member=Component JP8 JP 2x3 2.54
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

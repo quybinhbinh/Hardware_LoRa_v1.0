@@ -1,0 +1,10 @@
+Added Component: Designator=U2(SMAF_L3.5-W2.6-LS4.7-RD)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Diodes-General-Purpose_Shandong-Jingdao-Microelectronics-S3MF_C123928.html?s_z=n_s3m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Shandong Jingdao Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "S3MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMAF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=U2-1
+Added Pin To Net: NetName=Vcc Pin=U2-2
+Added Member To Class: ClassName=Voltage_source Member=Component U2 S3MF
+Added Room: Name=Voltage_source

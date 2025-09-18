@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q1
+Added Pin To Net: NetName=Vcc Pin=Q1-1
+Added Pin To Net: NetName=Vin Pin=Q1-2
+Added Pin To Net: NetName=V_bat Pin=Q1-3
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

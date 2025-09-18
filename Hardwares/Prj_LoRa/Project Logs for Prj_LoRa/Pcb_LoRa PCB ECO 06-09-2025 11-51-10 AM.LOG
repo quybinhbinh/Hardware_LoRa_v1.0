@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=TX1 Pin=U10-10
+Removed Pin From Net: NetName=RX1 Pin=U10-11
+Added Pin To Net: NetName=RX1 Pin=U10-23
+Added Pin To Net: NetName=TX1 Pin=U10-24
+Added Pin To Net: NetName=PD6 Pin=JP7-1
+Added Pin To Net: NetName=PD6 Pin=U10-10
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=JP7-2
+Added Pin To Net: NetName=PD7 Pin=U10-11
+Added Net: Name=PD7
+Added Member To Class: ClassName=MCU Member=Component C22 22uF 16V
+Added Member To Class: ClassName=MCU Member=Component C23 100nF 50V
+Added Member To Class: ClassName=MCU Member=Component C24 22pF 50V
+Added Member To Class: ClassName=MCU Member=Component C26 22pF 50V
+Added Member To Class: ClassName=MCU Member=Component C28 22uF 16V
+Added Member To Class: ClassName=MCU Member=Component C29 100nF 50V
+Added Member To Class: ClassName=MCU Member=Component C30 22uF 16V
+Added Member To Class: ClassName=MCU Member=Component C31 10nF 50V
+Added Member To Class: ClassName=MCU Member=Component C32 100nF 50V
+Added Member To Class: ClassName=MCU Member=Component C33 100nF 50V
+Added Member To Class: ClassName=MCU Member=Component R15 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R17 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R19 10k 1%
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

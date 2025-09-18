@@ -1,0 +1,171 @@
+Change Footprint: Cannot match pads with new footprint in component :U4 Footprint:SOT23-6
+Change Component Comment : Designator=U4 Old Comment=ATMEGA328-AU New Comment=SX1308
+Change component parameters: Designator = "U4" ("U4"); Footprint = "TQFP-32(7x7)"; UniqueID = "\YTXCAGDI" ("\YTXCAGDI")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/DC-DC-Converters_SX-Shenzhen-Suosemi-Tech-SX1308_C78162.html?s_z=n_sx1308"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "SX1308"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SX(Shenzhen Suosemi Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C_0603)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.html?s_z=n_22uF%2050V%200603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "CL10A226MO7JZNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C_0603)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.html?s_z=n_22uF%2050V%200603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "CL10A226MO7JZNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C_0603)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html?s_z=n_100nF%2050V%200603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C_0603)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html?s_z=n_100nF%2050V%200603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C_0603)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html?s_z=n_100nF%2050V%200603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C_0603)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRT188R61H105KE13D/5416752"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "GRT188R61H105KE13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C_0603)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C106222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/C106222.html?s_z=n_Yageo%2520C0603%252022nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "CC0603KRX7R9BB223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C_0603)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRT188R61H105KE13D/5416752"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "GRT188R61H105KE13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C_0603)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html?s_z=n_100nF%2050V%200603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Added Component: Designator=L1(CD54)
+Add component (AddParameter): Name = "Current"; Value = "3.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductor"; Value = "4.7uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Power-Inductors_Ceaiya-CD54-4R7M_C7588991.html?s_z=n_cd54%204.7uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ceaiya"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "CD54-4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CD54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R_0603)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C163420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/C163420.html?s_z=n_Yageo%25200603%252073.2K%25201%2525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "RC0603FR-0773K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R_0603)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C98220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/C98220.html?s_z=n_YAgeo%25200603%252010K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOLDERING PAD BIG 2
+Add Component: Footprint Not Found SOLDERING PAD BIG 2
+Added Component: Designator=U5(SOT23-5)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C15651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/C15651.html?s_z=n_RT9193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "RICHTEK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "RT9193-33GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SMAF_L3.5-W2.6-LS4.7-RD)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Schottky-Diodes_HXY-MOSFET-SS34F_C5766642.html?s_z=n_ss34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "SS34F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMAF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Added Component: Designator=U7(TQFP-32(7x7))
+Add component (AddParameter): Name = "LCSC Part"; Value = "C618731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/C618731.html?s_z=n_atmega328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MICROCHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "ATMEGA328-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32(7x7)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=Vin Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=Vin Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=Vin Pin=L1-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Add Pin To Net: Unknown Pin: Pin SP1-1
+Add Pin To Net: Unknown Pin: Pin SP2-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=Vin Pin=U4-4
+Added Pin To Net: NetName=Vin Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U5-2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=V_bat
+Added Pin To Net: NetName=3v3 Pin=C14-2
+Added Pin To Net: NetName=3v3 Pin=C15-2
+Added Pin To Net: NetName=3v3 Pin=U5-5
+Added Net: Name=3v3
+Added Pin To Net: NetName=5v Pin=C8-2
+Added Pin To Net: NetName=5v Pin=C10-2
+Added Pin To Net: NetName=5v Pin=C11-2
+Added Pin To Net: NetName=5v Pin=C12-2
+Added Pin To Net: NetName=5v Pin=R9-2
+Added Pin To Net: NetName=5v Pin=U5-1
+Added Pin To Net: NetName=5v Pin=U5-3
+Added Pin To Net: NetName=5v Pin=U6-1
+Added Net: Name=5v
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U5-4
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U4-1
+Added Pin To Net: NetName=NetL1_2 Pin=U6-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Pin To Net: NetName=NetR9_1 Pin=U4-3
+Added Net: Name=NetR9_1
+Added Class: Name=MCU
+Added Member To Class: ClassName=Voltage_source Member=Component C7 22uF 16V
+Added Member To Class: ClassName=Voltage_source Member=Component C8 22uF 16V
+Added Member To Class: ClassName=Voltage_source Member=Component C9 100nF 50V
+Added Member To Class: ClassName=Voltage_source Member=Component C10 100nF 50V
+Added Member To Class: ClassName=Voltage_source Member=Component C11 100nF 50V
+Added Member To Class: ClassName=Voltage_source Member=Component C12 1uF 50V
+Added Member To Class: ClassName=Voltage_source Member=Component C13 22nF 50V
+Added Member To Class: ClassName=Voltage_source Member=Component C14 1uF 50V
+Added Member To Class: ClassName=Voltage_source Member=Component C15 100nF 50V
+Added Member To Class: ClassName=Voltage_source Member=Component L1 4.7uH 3.1A
+Added Member To Class: ClassName=Voltage_source Member=Component R9 73.2K 1%
+Added Member To Class: ClassName=Voltage_source Member=Component R10 10k 1%
+Add Class Member: Failed to add class member : Component SP1 SP
+Add Class Member: Failed to add class member : Component SP2 SP
+Added Member To Class: ClassName=Voltage_source Member=Component U5 RT9193-33GB
+Added Member To Class: ClassName=Voltage_source Member=Component U6 SS34F
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

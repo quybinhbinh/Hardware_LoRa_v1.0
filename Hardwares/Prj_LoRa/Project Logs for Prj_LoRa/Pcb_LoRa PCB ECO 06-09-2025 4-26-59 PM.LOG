@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PB0 Pin=JP6-1
+Added Pin To Net: NetName=PB0 Pin=JP7-4
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

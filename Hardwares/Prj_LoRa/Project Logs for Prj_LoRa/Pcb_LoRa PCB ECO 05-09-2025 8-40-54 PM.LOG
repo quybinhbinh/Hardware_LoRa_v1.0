@@ -1,0 +1,17 @@
+Add Component: Footprint Not Found SOT-23-3
+Added Component: Designator=Q3(SOT23-3)
+Add component (AddParameter): Name = "Continuous Drain Current (Id)"; Value = "4.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Source Voltage (Vdss)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/MOSFETs_ElecSuper-AO3401_C5224195.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ElecSuper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "AO3401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation (Pd)"; Value = "1.4W"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Class Member: Failed to add class member : Component Q1 AO3401
+Added Member To Class: ClassName=Voltage_source Member=Component Q3 AO3401
+Added Room: Name=MCU
+Added Room: Name=Voltage_source

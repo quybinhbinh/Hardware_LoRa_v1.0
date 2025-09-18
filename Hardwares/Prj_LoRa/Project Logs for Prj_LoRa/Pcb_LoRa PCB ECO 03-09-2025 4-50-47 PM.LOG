@@ -1,0 +1,8 @@
+Added Component: Designator=U4(TQFP-32(7x7))
+Add component (AddParameter): Name = "LCSC Part"; Value = "C618731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/C618731.html?s_z=n_atmega328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MICROCHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mrf.Part"; Value = "ATMEGA328-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32(7x7)"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Voltage_source Member=Component U4 ATMEGA328-AU
+Added Room: Name=Voltage_source

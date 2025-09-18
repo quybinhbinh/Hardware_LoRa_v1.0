@@ -1,0 +1,24 @@
+Added Component: Designator=JP2(JP 2x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002686"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Ð?c 2.54MM 2x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT-23-3
+Added Pin To Net: NetName=MOSI Pin=JP2-5
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Added Pin To Net: NetName=MISO Pin=JP2-1
+Added Pin To Net: NetName=MISO Pin=U10-16
+Added Net: Name=MISO
+Add Net: Net with name "R\E\S\E\T\" already exists
+Added Pin To Net: NetName=SCK Pin=JP2-2
+Added Pin To Net: NetName=SCK Pin=TFT 1-7
+Added Pin To Net: NetName=SCK Pin=U10-17
+Added Net: Name=SCK
+Added Member To Class: ClassName=MCU Member=Component JP2 JP 2x3 2.54
+Add Class Member: Failed to add class member : Component Q1 AO3401
+Added Room: Name=MCU
+Added Room: Name=Voltage_source
